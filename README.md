@@ -3,9 +3,9 @@ Prácticas Diseño Interfaces de Usuario (Tema: .... )
 
 [Guiones de prácticas](GuionesPracticas/)
 
-Grupo: DIUx_AABB.  Curso: 2024/25 
+Grupo: DIU2.loscolegas.  Curso: 2024/25 
 
-Actualizado: xx/xx/2025
+Actualizado: 07/03/2025
 
 Proyecto: 
 
@@ -20,15 +20,11 @@ Logotipo:
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros:
- * :bust_in_silhouette:  AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:  José Manuel Medina Horta     https://github.com/jmedhor    
+ * :bust_in_silhouette:  César Bautista García Díaz   https://github.com/cgardia1409
 
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
 ----- 
-
-
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
 
 
 # Proceso de Diseño 
@@ -44,7 +40,10 @@ Miembros:
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+Vamos a realizar la investigación sobre un tema referido con la gastronomía y ocio de degustación dentro de Granada. Nosotros como grupo no tenemos experiencia previa a la hora de hacer evaluar los principios de usabilidad/experiencia de usuario ni sobre el impacto que puede tener la interfaz de usuario escogida dentro de los propios consumidores/público al que está dirigida. 
+
+En nuestro caso vamos a escoger como ejemplo de análisis los talleres de comida (https://granadacooking.com). 
+Para realizar dicha investigación vamos a adentrarnos dentro del perfil de las personas que acudirían a dicho servicio, observar su comportamiento realizando distintas tareas y analizar la usabilidad de la propia página. También vamos a observar los mismos comportamientos dentro de diversos comercios (en la competencia) viendo tanto sus diferencias principales como las fuerzas y debilidades principales de ambas.
 
 
 ### 1.b Competitive Analysis
