@@ -50,6 +50,7 @@ Para realizar dicha investigación vamos a adentrarnos dentro del perfil de las 
 ![Método UX](img/Competitive.png) 
 -----
 (La tabla de competidores se encuentra en /P1/
+
 Tenemos que analizar las aplicaciones relacionadas con la gastronomía/ocio de degustación, vamos a explicar algunas de las carácteristicas de este tipo de aplicaciones:
 
 Podemos analizar aspectos como el ambiente de los sitios mencionados, ya sea uno mas acogedor, cercano o tradicional como el de Bar la Goma o La Taberna de Kafka, u otros más festivos y movidos como el de Jardin Alhambra.
