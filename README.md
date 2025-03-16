@@ -50,7 +50,15 @@ Para realizar dicha investigación vamos a adentrarnos dentro del perfil de las 
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+Tenemos que analizar las aplicaciones relacionadas con la gastronomía/ocio de degustación, vamos a explicar algunas de las carácteristicas de este tipo de aplicaciones:
+
+Podemos analizar aspectos como el ambiente de los sitios mencionados, ya sea uno mas acogedor, cercano o tradicional como el de Bar la Goma o La Taberna de Kafka, u otros más festivos y movidos como el de Jardin Alhambra.
+
+También nos podemos fijar en la enseñanza impartida en algunos sitios como en los talleres de cocina en Granada Cooking, o las conversaciones/actividades culturales que se pueden ver en La Tertulia.
+
+De manera general este tipo de locales va enfocado a un ambiente mas relajado en el que el público que va principalmente concurre estos sitios para pasar un buen rato o incluso aprender algunas cosas sobre el mundo culinario.
+
+Finalmente nosotros nos decidimos por escoger los talleres de cocina ya que nos parece un buen ejemplo para analizar los dinstitos usuarios que pudiesen adentrarse en este tipo de actividad, a la vez que creemos que dispone de una muy buena interfaz de cara a los clientes.
 
 
 ### 1.c Personas
