@@ -92,6 +92,19 @@ Carlota Peŕez es una estudiante universitaria que estudia bellas artes. Siempre
 >>> - URL y Valoración numérica obtenida: 
 >>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
 
+
+### Briefing
+
+Vamos a realizar el análisis de usuario sobre la página escogida (granadacooking.com) como un experto en UX.
+
+De primera vista la página ofrece una vista bonita y amigable para el usuario. Contiene explicaciones claras para lo que sirve la propia página. Ofrece rápidamente una elección de reserva de talleres, sin embargo, la fecha que se muestra esta pasada por mas de un año, lo cual indica que no esta muy actualizada.
+
+Cuando intentas reservar un taller concreto, no te muestra directamente la fecha más próxima si no que te obliga a buscar dentro de un calendario cuando se puede realizar el taller, lo cual puede causar que el usuario se frustre. 
+
+Contiene una función de búsqueda de talleres muy conveniente pero no siempre funciona ya que hay que ser medianamente especifico. Esto también puede causar que el usuario se piense que no existen talleres de lo que esta buscando. Se podrían añadir filtros que serían mas amigables para el usuario y también añadir una barra de búsqueda en vez una lupa para que la función sea más visible.
+
+
+
 <br>
 
 ## Paso 2. UX Design  
