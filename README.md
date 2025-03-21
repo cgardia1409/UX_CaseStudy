@@ -47,7 +47,7 @@ Para realizar dicha investigación vamos a adentrarnos dentro del perfil de las 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
-![](P1/CompetitorAnalysis.pdf)
+![](P1/CompetitorAnalysis.png)
 
 Tenemos que analizar las aplicaciones relacionadas con la gastronomía/ocio de degustación, vamos a explicar algunas de las carácteristicas de este tipo de aplicaciones:
 
