@@ -70,7 +70,7 @@ Finalmente nosotros nos decidimos por escoger los talleres de cocina ya que nos 
  Juan Garcia es un profesor de autoescuela de 36 años que es apasionado por el mundo del motor y la gastronomía. Es carismatico pero algo introvertido. Le gusta mucho pasar tiempo junto a su familia y siempre intenta cocinarles una buena comida para que disfruten.
 
  ![](P1/Persona2.png)
-
+Carlota Peŕez es una estudiante universitaria que estudia bellas artes. Siempre le ha encantado el mundo de la fotografía y hacer planes alocados junto a sus amigos. 
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
