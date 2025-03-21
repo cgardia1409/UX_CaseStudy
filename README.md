@@ -65,10 +65,10 @@ Finalmente nosotros nos decidimos por escoger los talleres de cocina ya que nos 
 -----
 
  ![](P1/Persona1.png)
- Juan Garcia es un profesor de autoescuela de 36 años que es apasionado por el mundo del motor y la gastronomía. Es carismatico pero algo introvertido. Le gusta mucho pasar tiempo junto a su familia y siempre intenta cocinarles una buena comida para que disfruten.
+ Juan Garcia es un profesor de autoescuela de 36 años que es apasionado por el mundo del motor y la gastronomía. Es carismatico pero algo introvertido. Le gusta mucho pasar tiempo junto a su familia y siempre intenta cocinarles una buena comida para que disfruten. Juan se ha interesado por los talleres de cocina para mejorar su técnica y sorprender a su familia con nuevos platos.
 
  ![](P1/Persona2.png)
-Carlota Peŕez es una estudiante universitaria que estudia bellas artes. Siempre le ha encantado el mundo de la fotografía y hacer planes alocados junto a sus amigos. 
+Carlota Peŕez es una estudiante universitaria que estudia bellas artes. Siempre le ha encantado el mundo de la fotografía y hacer planes alocados junto a sus amigos. Se ha interesado por los talleres de cocina para aprender nuevas habilidades culinarias mientras disfruta un buen rato junto a sus amigos, al mismo tiempo que intenta capturar todos los momentos con fotos para luego subirlo a sus redes sociales.
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
