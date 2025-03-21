@@ -66,7 +66,10 @@ Finalmente nosotros nos decidimos por escoger los talleres de cocina ya que nos 
 ![Método UX](img/Persona.png) 
 -----
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+ ![](P1/Persona1.png)
+ descripcion
+
+ ![](P1/Persona2.png)
 
 
 ### 1.d User Journey Map
