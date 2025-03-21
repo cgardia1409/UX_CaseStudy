@@ -2,7 +2,7 @@
 
 
 - Desk research: Análisis Competencia 
-- 2 Personas 
+- 2 Personas ![Jose Manuel](https://github.com/jmedhor) ![Cesar Bautista](https://github.com/cgardia1409)
 - 2 User Journey Map  ( 1 por persona)
 - Revisión de Usabilidad 
 
