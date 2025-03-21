@@ -87,10 +87,9 @@ Carlota Peŕez es una estudiante universitaria que estudia bellas artes. Siempre
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+- Enlace al documento:  ![Usability Review](P1/Usability_Review.xls)
+- URL y Valoración numérica obtenida: https://granadacooking.com/ 85
+- Comentario sobre la revisión:  Muy limpia y clara para el usuario, ofreciendo gran variedad de talleres, pero posee una función de busqueda bastante pobre, además buscar una fecha disponible para un taller concreto se hace muy tedioso
 
 
 ### Briefing
