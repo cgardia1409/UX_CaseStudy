@@ -1,5 +1,5 @@
 # DIU25
-Prácticas Diseño Interfaces de Usuario (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario (Tema: El ocio y comercio sostenible ) 
 
 [Guiones de prácticas](GuionesPracticas/)
 
