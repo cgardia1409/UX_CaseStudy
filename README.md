@@ -78,7 +78,7 @@ Carlota Peŕez es una estudiante universitaria que estudia bellas artes. Siempre
 
 ![](P1/User_Journey_Map_2.png)
 
-Estás dos experiencias de usuario nos parecen que reflejan una situación que podría sufrir cualquier persona, dandonos opción a poder imaginar un comportamiento y una opinión que puede ser estandarizada para los usuarios que deseen asistir a estas actividades, y así poder visualizar posibles errores y cómo podríamos solucionarlos
+Estas dos experiencias de usuario nos parecen que reflejan una situación que podría sufrir cualquier persona, dandonos opción a poder imaginar un comportamiento y una opinión que puede ser estandarizada para los usuarios que deseen asistir a estas actividades, y así poder visualizar posibles errores y cómo podríamos solucionarlos
 
 
 ### 1.e Usability Review
