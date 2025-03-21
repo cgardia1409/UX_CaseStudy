@@ -80,7 +80,7 @@ Carlota Peŕez es una estudiante universitaria que estudia bellas artes. Siempre
 
 ![](P1/User_Journey_Map_2.png)
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+Estás dos experiencias de usuario nos parecen que reflejan una situación que podría sufrir cualquier persona, dandonos opción a poder imaginar un comportamiento y una opinión que puede ser estandarizada para los usuarios que deseen asistir a estas actividades, y así poder visualizar posibles errores y cómo podríamos solucionarlos
 
 
 ### 1.e Usability Review
