@@ -5,7 +5,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: El ocio y comercio sostenible )
 
 Grupo: DIU2.loscolegas.  Curso: 2024/25 
 
-Actualizado: 07/03/2025
+Actualizado: 21/03/2025
 
 Proyecto: 
 
@@ -32,8 +32,6 @@ Miembros:
 <br>
 
 ## Paso 1. UX User & Desk Research & Analisis 
-
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
 
 ### 1.a User Reseach Plan
