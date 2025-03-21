@@ -87,8 +87,9 @@ Carlota Peŕez es una estudiante universitaria que estudia bellas artes. Siempre
 ![Método UX](img/usabilityReview.png) 
 ----
 
-- Enlace al documento:  ![Usability Review](P1/Usability_Review.xls)
-- URL y Valoración numérica obtenida: https://granadacooking.com/ 85
+- Enlace al documento:  [Usability Review](P1/Usability_Review.xls)
+- URL:  https://granadacooking.com/
+- Valoración numérica obtenida:  85
 - Comentario sobre la revisión:  Muy limpia y clara para el usuario, ofreciendo gran variedad de talleres, pero posee una función de busqueda bastante pobre, además buscar una fecha disponible para un taller concreto se hace muy tedioso
 
 
