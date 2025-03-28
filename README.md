@@ -85,7 +85,7 @@ Estas dos experiencias de usuario nos parecen que reflejan una situación que po
 ![Método UX](img/usabilityReview.png) 
 ----
 
-- Enlace al documento:  [Usability Review](P1/Usability_Review.xls)
+- Enlace al documento:  [Usability Review](P1/Usability_Review.xlsx)
 - URL:  https://granadacooking.com/
 - Valoración numérica obtenida:  85
 - Comentario sobre la revisión:  Muy limpia y clara para el usuario, ofreciendo gran variedad de talleres, pero posee una función de busqueda bastante pobre, además buscar una fecha disponible para un taller concreto se hace muy tedioso
