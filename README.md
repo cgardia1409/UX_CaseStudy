@@ -115,6 +115,8 @@ Contiene una función de búsqueda de talleres muy conveniente pero no siempre f
 
 
 ![](P2/feedback_grid.png)
+
+![](P2/empathy.png)
   
     
 >>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
