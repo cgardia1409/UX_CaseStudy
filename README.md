@@ -9,11 +9,11 @@ Actualizado: 21/03/2025
 
 Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Rediseño de la página web
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Rediseñar la página web para que ofrezca una experiencia intuitiva y eficiente, que refleje la calidad de los talleres, facilite la navegación, simplifique la búsqueda y reserva de actividades, y permita a los usuarios gestionar sus inscripciones de forma autónoma y sin fricciones 
 
 Logotipo: 
 
