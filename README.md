@@ -107,8 +107,6 @@ Contiene una función de búsqueda de talleres muy conveniente pero no siempre f
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
@@ -116,9 +114,7 @@ Contiene una función de búsqueda de talleres muy conveniente pero no siempre f
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
 
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+![](P2/feedback_grid.png)
   
     
 >>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
@@ -129,9 +125,7 @@ Contiene una función de búsqueda de talleres muy conveniente pero no siempre f
 ![Método UX](img/ScopeCanvas.png)
 ----
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
-
+![](P2/scope_canvas.png)
 
 
 ### 2.b User Flow (task) analysis 
