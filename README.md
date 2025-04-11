@@ -132,7 +132,9 @@ Contiene una función de búsqueda de talleres muy conveniente pero no siempre f
 ![Método UX](img/Sitemap.png) 
 -----
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+![](P2/UserFlow.png)
+
+Diagrama de flujo del procedimiento sencillo de un usuario al entrar a la página. El usuario tiene normalmente dos opciones, entrar a realizar una reserva en un taller, o bien acceder a consultar sus reservas realizadas, sobre las cuales tiene la opción de cancelar la reserva realizada previamente.
 
 
 ### 2.c IA: Sitemap + Labelling 
