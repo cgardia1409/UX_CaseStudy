@@ -143,10 +143,6 @@ Diagrama de flujo del procedimiento sencillo de un usuario al entrar a la págin
 ![](P2/sitemap.png)
 ![](P2/labelling.png)
 
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
-
 
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
