@@ -140,8 +140,8 @@ Diagrama de flujo del procedimiento sencillo de un usuario al entrar a la págin
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
-
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+![](P2/sitemap.png)
+![](P2/labelling.png)
 
 Término | Significado     
 | ------------- | -------
