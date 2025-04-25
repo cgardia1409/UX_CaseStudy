@@ -149,8 +149,14 @@ Diagrama de flujo del procedimiento sencillo de un usuario al entrar a la págin
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
 -----
+![](P2/home.png)
+![](P2/talleres.png)
+![](P2/taller.png)
+![](P2/carrito.png)
+![](P2/login.png)
+![](P2/reservas.png)
+![](P2/about.png)
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
 
 <br>
 
