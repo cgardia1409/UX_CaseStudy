@@ -1,6 +1,8 @@
 # DIU25
 Prácticas Diseño Interfaces de Usuario (Tema: El ocio y comercio sostenible ) 
 
+https://www.figma.com/design/j4qZ2pMbdgnOBtDu7gBRmw/Breakpoints--Community-?node-id=1-84&t=Kr0kEiOnLOVgoobW-1
+
 [Guiones de prácticas](GuionesPracticas/)
 
 Grupo: DIU2.loscolegas.  Curso: 2024/25 
