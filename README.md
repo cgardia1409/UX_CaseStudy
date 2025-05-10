@@ -169,17 +169,15 @@ Diagrama de flujo del procedimiento sencillo de un usuario al entrar a la págin
 ![Método UX](img/moodboard.png)
 -----
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+![](P3/moodboard.png)
+Hemos utilizado la pagina de "Excalidraw" para representar nuestro tablón del moodboard. Las imágenes del logo y paleta de colores las podemos usar tanto para nuestra propia página como para publicitarlo en sitios como Instagram.
 
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
-
+![](LandingPage.jpg)
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
