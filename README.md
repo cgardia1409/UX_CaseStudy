@@ -177,7 +177,7 @@ Hemos utilizado la pagina de "Excalidraw" para representar nuestro tablón del m
 ![Método UX](img/landing-page.png) 
 ----
 
-![](LandingPage.jpg)
+![](P3/LandingPage.jpg)
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
