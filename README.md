@@ -182,16 +182,33 @@ Hemos utilizado la pagina de "Excalidraw" para representar nuestro tablón del m
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
 ----
+Pagina Home
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Hemos usado una AppBar para completar la parte superior de la pagina. Un carrusel con Hero image para enfocar los talleres destacados. Un nav bar para la parte inferior de la pagina, indicando las otras paginas. Y por ultimo “Cards” para incitar al usuario que visite todos los talleres
+
+Pagina Talleres
+
+Mantenemos la nav bar en la parte inferior de la pagina, usamos Cards para mostrar todos los talleres y tambien nos auxiliamos de Text fields (Para los inputs de busqueda de filtros) y Chips para implementar los propios filtros
+
+Pagina Taller
+
+Nos apoyamos en un carrusel para mostrar fotos del taller indicado, así como de un boton para indicar la opción de “Reservar”
+
+Pagina Login y registro
+
+Usamos Text fields para que el usuario pueda introducir los datos y botones plantilla para mandar al usuario a la confirmación de inicio de sesión o al formulario de registro.
+
+Pagina About us
+
+Usamos “Cards” donde se ciclarán imagenes publicitarias de la propia empresa y campos de texto con información sobre la misma.
+Se incluye un boton de FAQ 
 
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+Enlace al layout en figma: https://www.figma.com/design/dmVYoZrvEyf3kvb6o37RiM/Layout?node-id=0-1&t=TojYkhgNLlueGIPn-1
 
 
 ### 3.e ¿My UX-Case Study?
