@@ -245,6 +245,8 @@ Enlace al layout en figma: https://www.figma.com/design/dmVYoZrvEyf3kvb6o37RiM/L
 
 Desarrollamos pruebas mediante Maze, además del cuestionario SUS y pruebas mediante el método de Eye tracking, comparando tanto nuestra página como la de nuestros compañeros usando el A/B Testing.
 
+Enlace a las preguntas de Maze: https://app.maze.co/report/New-maze-1/4kiyf7mb12dmmq/intro
+
 
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
