@@ -269,6 +269,8 @@ SUS B
 
 Reclutamos nuestros usuarios en clase y utilizamos la aplicación gazerecorder.com para ver como reaccionan los usuarios ante nuestra propia página y la página diseñada por nuestros compañeros (caso B).
 
+CASO B
+
 ![](P4/eyeTrackingB1.png)
 ![](P4/eyeTrackingB2.png)
 ![](P4/eyeTrackingB3.png)
@@ -276,6 +278,19 @@ Reclutamos nuestros usuarios en clase y utilizamos la aplicación gazerecorder.c
 ![](P4/eyeTrackingB5.png)
 ![](P4/eyeTrackingB6.png)
 ![](P4/eyeTrackingB7.png)
+
+
+![](P4/eyeTrackingA1.png)
+![](P4/eyeTrackingAT1.png)
+![](P4/eyeTrackingA2.png)
+![](P4/eyeTrackingAT2.png)
+![](P4/eyeTrackingA3.png)
+![](P4/eyeTrackingAT3.png)
+![](P4/eyeTrackingA4.png)
+![](P4/eyeTrackingAT4.png)
+![](P4/eyeTrackingA5.png)
+![](P4/eyeTrackingAT5.png)
+
 
 
 
