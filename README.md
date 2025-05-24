@@ -280,6 +280,8 @@ CASO B
 ![](P4/eyeTrackingB7.png)
 
 
+CASO A
+
 ![](P4/eyeTrackingA1.png)
 ![](P4/eyeTrackingAT1.png)
 ![](P4/eyeTrackingA2.png)
