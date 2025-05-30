@@ -14,7 +14,7 @@
 
 
 
-![](P4/Home_B.png)
+![](Home_B.png)
 
 [[Enlace a GITHUB del proyecto](https://github.com/vikho22/UX_CaseStudy)]
 
