@@ -233,10 +233,10 @@ Enlace al layout en figma: https://www.figma.com/design/dmVYoZrvEyf3kvb6o37RiM/L
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Javier        | H / 20   | Estudiante  | Alta        | Introvertido | Web.       | A
+| Maatti        | H / 22   | Estudiante  | Alta        | Extrovertido | Web        | A 
+| Ivan Molina   | H / 20   | Estudiante  | Alta        | Chill        | Web        | B 
+| Aitana        | M / 19   | Estudiante  | Baja        | Alegre       | Web        | B 
 
 
 ### 4.b Diseño de las pruebas 
@@ -255,6 +255,8 @@ Enlace a las preguntas de Maze (nuestro): https://app.maze.co/report/Nuestro/d6e
 ----
 SUS A
 ![](P4/susA.jpeg)
+
+![](P4/susA2.png)
 
 SUS B
 ![](P4/susB.jpeg)
