@@ -296,6 +296,13 @@ Usuario 1
 Usuario 2
 ----
 
+![](P4/eyeTrackingB21.png)
+![](P4/eyeTrackingB22.png)
+![](P4/eyeTrackingB23.png)
+![](P4/eyeTrackingB24.png)
+![](P4/eyeTrackingB25.png)
+![](P4/eyeTrackingB26.png)
+![](P4/eyeTrackingB27.png)
 
 CASO A
 
