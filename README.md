@@ -269,6 +269,9 @@ SUS B
 
 >>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
 
+Viendo los resultados generales de los tests realizados en Maze, junto al test SUS y el test de Eye Tracking, vemos que de manera general es un poco más usable el caso B, presentandose alguna opinión bastante buena también en el caso A. Vemos que también se presentan algunos problemas en el caso A en el test de Eye tracking, ya que la atención se ve dirigida a otros sitios antes que a los elementos principales, algo que también pasa, pero con menos presencia, en el caso B
+
+
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
 ----
