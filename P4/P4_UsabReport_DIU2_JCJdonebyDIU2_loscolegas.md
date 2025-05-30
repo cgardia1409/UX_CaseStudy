@@ -72,13 +72,13 @@ Resultados del test SUS
 
 SUS A
 -----
-![](P4/susA.jpeg)
+![](susA.jpeg)
 
-![](P4/susA2.png)
+![](susA2.png)
 
 SUS B
 -----
-![](P4/susB.jpeg)
+![](susB.jpeg)
 
 
 
@@ -88,13 +88,13 @@ Resultados del Eye Tracking
 Usuario 1
 ----
 
-![](P4/eyeTrackingB1.png)
-![](P4/eyeTrackingB2.png)
-![](P4/eyeTrackingB3.png)
-![](P4/eyeTrackingB4.png)
-![](P4/eyeTrackingB5.png)
-![](P4/eyeTrackingB6.png)
-![](P4/eyeTrackingB7.png)
+![](eyeTrackingB1.png)
+![](eyeTrackingB2.png)
+![](eyeTrackingB3.png)
+![](eyeTrackingB4.png)
+![](eyeTrackingB5.png)
+![](eyeTrackingB6.png)
+![](eyeTrackingB7.png)
 
 Usuario 2
 ----
