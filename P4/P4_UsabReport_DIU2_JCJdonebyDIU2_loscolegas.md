@@ -27,37 +27,21 @@
 [Informe realizado por Equipo DIU2_loscolegas]
 
 Proyecto bastante completo, sin ninguna falta notable más que no se han enlazado los botones en algunas secciones.
-
-
-
-
-
-
+Igual puede presentar algun que otro problema de contraste pero de manera general esta muy bien realizado.
 
 
 
 
 ## 1 DESCRIPCIÓN DEL WEBSITE
 
-Esta APP ofrece una alta variedad de talleres de cocina y permite realizar reservas sobre ellas.
+Esta APP ofrece una alta variedad de talleres de cocina y permite realizar reservas sobre ellas, pudiendose crear una cuenta dentro del sistema, iniciar sesión para acceder a los talleres reservados, y hasta un buscador dentro de la propia aplicación.
 
  https://github.com/vikho22/UX_CaseStudy
 
 
-
 ## 2 RESUMEN EJECUTIVO
 
-
-
-En este documento se resaltan los datos de una investigación realizada con el fin de mostrar la usabilidad que posee la APP que ha realizado el grupo JCJ.
-
-
-
-
-
-
-
-
+En este documento se resaltan los datos de una investigación realizada con el fin de mostrar la usabilidad que posee la APP que ha realizado el grupo JCJ. Dentro de ella realizaremos varias pruebas, entre las cuales constan algunas como un test realizado en MAZE, otras como los cuestionarios SUS y por último la comprobación de la usabilidad auxiliandonos en la técnica de Eye Tracking, comprobando como reaccionan los usuarios ante los estímulos de la propia página en sí.
 
 ## 3 METODOLOGIA 
 
