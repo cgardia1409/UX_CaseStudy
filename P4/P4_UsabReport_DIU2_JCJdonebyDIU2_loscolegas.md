@@ -36,8 +36,6 @@ Igual puede presentar algun que otro problema de contraste pero de manera genera
 
 Esta APP ofrece una alta variedad de talleres de cocina y permite realizar reservas sobre ellas, pudiendose crear una cuenta dentro del sistema, iniciar sesión para acceder a los talleres reservados, y hasta un buscador dentro de la propia aplicación.
 
- https://github.com/vikho22/UX_CaseStudy
-
 
 ## 2 RESUMEN EJECUTIVO
 
@@ -55,8 +53,6 @@ En este documento se resaltan los datos de una investigación realizada con el f
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| Javier        | H / 20   | Estudiante  | Alta        | Introvertido | Web.       | A
-| Maatti        | H / 22   | Estudiante  | Alta        | Extrovertido | Web        | A 
 | Ivan Molina   | H / 20   | Estudiante  | Alta        | Chill        | Web        | B 
 | Aitana        | M / 19   | Estudiante  | Baja        | Alegre       | Web        | B 
 
@@ -70,13 +66,7 @@ https://app.maze.co/report/New-maze-1/4kiyf7mb12dmmq/intro
 Resultados del test SUS
 ------
 
-SUS A
------
-![](susA.jpeg)
-
-![](susA2.png)
-
-SUS B
+SUS 
 -----
 ![](susB.jpeg)
 
@@ -100,13 +90,9 @@ Usuario 2
 ----
 
 
-
-
 ## 4 CONCLUSIONES 
+Viendo los resultados de las pruebas obtenidas podemos deducir algunos de los problemas que han podido surgir durante las distintas evaluaciones. Vemos que presentan una puntuación muy buena para los tests SUS, sienod esta de 87.5, superando con creces el baremo del puntaje minimo de 75 puntos. Si nos fijamos en los tests realizados por MAZE vemos que los usuarios responden generalmente bien a las preguntas, dandonos a entender que el sitio web es facil de entender y utilizar. La única mayor pega que puede tener el proyecto la podemos ver en la prueba del Eye Tracking, donde vemos que los usuarios no reconocen algunos de los iconos importantes del sitio web en las páginas presentadas.
 
-
-
-(qué podemos extraer de conclusion con las pruebas de usabilidad efectuadas)
 
 
 
