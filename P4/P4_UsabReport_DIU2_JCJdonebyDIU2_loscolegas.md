@@ -70,6 +70,8 @@ SUS
 -----
 ![](susB.jpeg)
 
+![](susB2.png)
+
 
 
 Resultados del Eye Tracking
@@ -91,7 +93,7 @@ Usuario 2
 
 
 ## 4 CONCLUSIONES 
-Viendo los resultados de las pruebas obtenidas podemos deducir algunos de los problemas que han podido surgir durante las distintas evaluaciones. Vemos que presentan una puntuación muy buena para los tests SUS, sienod esta de 87.5, superando con creces el baremo del puntaje minimo de 75 puntos. Si nos fijamos en los tests realizados por MAZE vemos que los usuarios responden generalmente bien a las preguntas, dandonos a entender que el sitio web es facil de entender y utilizar. La única mayor pega que puede tener el proyecto la podemos ver en la prueba del Eye Tracking, donde vemos que los usuarios no reconocen algunos de los iconos importantes del sitio web en las páginas presentadas, dando a entender que estos elementos no estan bien posicionados o que no se les da la relevancia que realmente se les debería dar.
+Viendo los resultados de las pruebas obtenidas podemos deducir algunos de los problemas que han podido surgir durante las distintas evaluaciones. Vemos que presentan una puntuación muy buena para usuarios con previo conocimiento TIC en los tests SUS, siendo esta de 87.5, superando con creces el baremo del puntaje minimo de 75 puntos, pero para un usuario con muy poco conocimientos esta puntuación baja drásticamente a 70, siendo esto probablemente por la falta de imagenes de los distintos talleres. Si nos fijamos en los tests realizados por MAZE vemos que los usuarios responden generalmente bien a las preguntas, dandonos a entender que el sitio web es facil de entender y utilizar. La única mayor pega que puede tener el proyecto la podemos ver en la prueba del Eye Tracking, donde vemos que los usuarios no reconocen algunos de los iconos importantes del sitio web en las páginas presentadas, dando a entender que estos elementos no estan bien posicionados o que no se les da la relevancia que realmente se les debería dar.
 
 #### Incidencias
 
