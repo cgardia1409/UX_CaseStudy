@@ -247,7 +247,7 @@ Desarrollamos pruebas mediante Maze, además del cuestionario SUS y pruebas medi
 
 Enlace a las preguntas de Maze (otro grupo): https://app.maze.co/report/New-maze-1/4kiyf7mb12dmmq/intro
 
-Enlace a las preguntas de Maze (nuestro): https://t.maze.co/394588782
+Enlace a las preguntas de Maze (nuestro): https://app.maze.co/report/Nuestro/d6e347mbazlt5w/intro
 
 
 ### 4.c Cuestionario SUS
