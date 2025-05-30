@@ -91,33 +91,26 @@ Usuario 2
 
 
 ## 4 CONCLUSIONES 
-Viendo los resultados de las pruebas obtenidas podemos deducir algunos de los problemas que han podido surgir durante las distintas evaluaciones. Vemos que presentan una puntuación muy buena para los tests SUS, sienod esta de 87.5, superando con creces el baremo del puntaje minimo de 75 puntos. Si nos fijamos en los tests realizados por MAZE vemos que los usuarios responden generalmente bien a las preguntas, dandonos a entender que el sitio web es facil de entender y utilizar. La única mayor pega que puede tener el proyecto la podemos ver en la prueba del Eye Tracking, donde vemos que los usuarios no reconocen algunos de los iconos importantes del sitio web en las páginas presentadas.
-
-
-
+Viendo los resultados de las pruebas obtenidas podemos deducir algunos de los problemas que han podido surgir durante las distintas evaluaciones. Vemos que presentan una puntuación muy buena para los tests SUS, sienod esta de 87.5, superando con creces el baremo del puntaje minimo de 75 puntos. Si nos fijamos en los tests realizados por MAZE vemos que los usuarios responden generalmente bien a las preguntas, dandonos a entender que el sitio web es facil de entender y utilizar. La única mayor pega que puede tener el proyecto la podemos ver en la prueba del Eye Tracking, donde vemos que los usuarios no reconocen algunos de los iconos importantes del sitio web en las páginas presentadas, dando a entender que estos elementos no estan bien posicionados o que no se les da la relevancia que realmente se les debería dar.
 
 #### Incidencias
 
-* (indicad si algo ha fallado o no se ha podido realizar correctamente por algún motivo)
+No se han presentado incidencias a la hora de realizar las pruebas
 
 
 
 #### Valoración 
 
-* (Puntos Positivos a destacar)
+Observamos que la página esta bien diseñada y estructurada, presenta un diseño bonito y coherente con el ambiente del sitio web. La navegación es sencilla e intuitiva. Es una página bastante limpia y ordenada generando satisfacción en el usuario. El mockup esta completo, sin dejar ninguna página vacía, contemplando todos los aspectos diversos del sitio.
 
 
 
 #### Recomendaciones y propuesta de mejoras: 
 
-* (Puntos de mejora)
-
-
-
-
+Se podrian mejorar algunos aspectos como que se presentan algunos botones en la barra de navegación principal, o en los iconos para volver hacia atrás que carecen de funcionamiento. El contraste se puede mejorar en algunos sitios mas pequeños y menos visibles de forma que al usuario no le cueste visualizar bien la información importante. Finalmente vemos que se le podría dar mas relevancia a algunos iconos/imagenes para que el usuario centre toda su atención en las cosas mas importantes dentro de cada página,antes de que esta se pierda en otros estimulos que igual no interesa que reciban tanto peso.
 
 
 
 #### Valoración de la prueba de usabilidad (self-assesment)
 
-(valoración personal de si han sido útiles estas técnicas para detectar errores ocultos o falllos de usabilidad en este caso )
+La herramienta del Eye Tracking ayuda mucho para detectar los aspectos más visitados por los usuarios y ver si estos carecen de relevancia. Las pruebas de maze también ayudan a visualizar si el usuario comprende bien la pagína, indicandonos si esta se explica bien o no. Y finalmente el test SUS nos sirve para ver la satisfacción global del usuario, determinando si estos creen que es cómoda de usar o no. Si nos ceñimos al caso que estamos estudiando vemos que el uso combinado de estas tres técnicas nos ayuda enormemente para poder valorar correctamente si esta bien estructurada, para el cual vemos que en efecto esta muy bien realizada la práctica que nos ha tocado comprobar.
