@@ -6,17 +6,17 @@
 
 #### Evaluación de usabilidad del proyecto 
 
-### (NOMBRE PROYECTO )
+### GranadaCooking
 
-### (Fecha)
-
-
+### 30/05/25
 
 
 
-[img Proyecto]
 
-[Enlace a GITHUB del proyecto]
+
+![](P4/Home_B.png)
+
+[[Enlace a GITHUB del proyecto](https://github.com/vikho22/UX_CaseStudy)]
 
 
 
@@ -24,8 +24,9 @@
 
 ### Realizado por:
 
-[Informe realizado por Equipo (quien hace el report) explicar brevemente vuestra experiencia ]
+[Informe realizado por Equipo DIU2_loscolegas]
 
+Proyecto bastante completo, sin ninguna falta notable más que no se han enlazado los botones en algunas secciones.
 
 
 
@@ -38,9 +39,9 @@
 
 ## 1 DESCRIPCIÓN DEL WEBSITE
 
-[Incluir un breve resumen el propósito de la App]
+Esta APP ofrece una alta variedad de talleres de cocina y permite realizar reservas sobre ellas.
 
- 
+ https://github.com/vikho22/UX_CaseStudy
 
 
 
@@ -48,9 +49,7 @@
 
 
 
-[ Breve descripción de lo que contiene el documento 
-
-y Resumen conciso de problemas detectados ]
+En este documento se resaltan los datos de una investigación realizada con el fin de mostrar la usabilidad que posee la APP que ha realizado el grupo JCJ.
 
 
 
