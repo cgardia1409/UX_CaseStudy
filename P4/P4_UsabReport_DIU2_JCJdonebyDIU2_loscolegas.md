@@ -91,13 +91,13 @@ Usuario 1
 Usuario 2
 ----
 
-![](P4/eyeTrackingB21.png)
-![](P4/eyeTrackingB22.png)
-![](P4/eyeTrackingB23.png)
-![](P4/eyeTrackingB24.png)
-![](P4/eyeTrackingB25.png)
-![](P4/eyeTrackingB26.png)
-![](P4/eyeTrackingB27.png)
+![](eyeTrackingB21.png)
+![](eyeTrackingB22.png)
+![](eyeTrackingB23.png)
+![](eyeTrackingB24.png)
+![](eyeTrackingB25.png)
+![](eyeTrackingB26.png)
+![](eyeTrackingB27.png)
 
 ## 4 CONCLUSIONES 
 Viendo los resultados de las pruebas obtenidas podemos deducir algunos de los problemas que han podido surgir durante las distintas evaluaciones. Vemos que presentan una puntuación muy buena para usuarios con previo conocimiento TIC en los tests SUS, siendo esta de 87.5, superando con creces el baremo del puntaje minimo de 75 puntos, pero para un usuario con muy poco conocimientos esta puntuación baja drásticamente a 70, siendo esto probablemente por la falta de imagenes de los distintos talleres. Si nos fijamos en los tests realizados por MAZE vemos que los usuarios responden generalmente bien a las preguntas, dandonos a entender que el sitio web es facil de entender y utilizar. La única mayor pega que puede tener el proyecto la podemos ver en la prueba del Eye Tracking, donde vemos que los usuarios no reconocen algunos de los iconos importantes del sitio web en las páginas presentadas, dando a entender que estos elementos no estan bien posicionados o que no se les da la relevancia que realmente se les debería dar.
