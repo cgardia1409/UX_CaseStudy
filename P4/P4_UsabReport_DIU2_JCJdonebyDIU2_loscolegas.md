@@ -53,26 +53,51 @@ En este documento se resaltan los datos de una investigación realizada con el f
 
 #### Test de usuarios: Participantes
 
-[tabla, ejemplo, descripción demográfica de los participantes]
-
-
-
+| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
+| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
+| Javier        | H / 20   | Estudiante  | Alta        | Introvertido | Web.       | A
+| Maatti        | H / 22   | Estudiante  | Alta        | Extrovertido | Web        | A 
+| Ivan Molina   | H / 20   | Estudiante  | Alta        | Chill        | Web        | B 
+| Aitana        | M / 19   | Estudiante  | Baja        | Alegre       | Web        | B 
 
 
 #### Resultados obtenidos
 
+Report generado por MAZE
+------
+https://app.maze.co/report/New-maze-1/4kiyf7mb12dmmq/intro
+
+Resultados del test SUS
+------
+
+SUS A
+-----
+![](P4/susA.jpeg)
+
+![](P4/susA2.png)
+
+SUS B
+-----
+![](P4/susB.jpeg)
 
 
-(resultado de SUS)
 
+Resultados del Eye Tracking
+-----
 
+Usuario 1
+----
 
-(resultado de eyetracking)
+![](P4/eyeTrackingB1.png)
+![](P4/eyeTrackingB2.png)
+![](P4/eyeTrackingB3.png)
+![](P4/eyeTrackingB4.png)
+![](P4/eyeTrackingB5.png)
+![](P4/eyeTrackingB6.png)
+![](P4/eyeTrackingB7.png)
 
-
-
-
-
+Usuario 2
+----
 
 
 
