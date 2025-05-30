@@ -261,6 +261,8 @@ SUS A
 SUS B
 ![](P4/susB.jpeg)
 
+![](P4/susB2.png)
+
 
 
 ### 4.d A/B Testing
