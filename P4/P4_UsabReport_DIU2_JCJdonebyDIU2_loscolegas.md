@@ -101,13 +101,13 @@ No se han presentado incidencias a la hora de realizar las pruebas
 
 #### Valoración 
 
-Observamos que la página esta bien diseñada y estructurada, presenta un diseño bonito y coherente con el ambiente del sitio web. La navegación es sencilla e intuitiva. Es una página bastante limpia y ordenada generando satisfacción en el usuario. El mockup esta completo, sin dejar ninguna página vacía, contemplando todos los aspectos diversos del sitio.
+Observamos que la página esta bien diseñada y estructurada, presenta un diseño bonito y coherente con el ambiente del sitio web. La navegación es sencilla e intuitiva. Es una página bastante limpia y ordenada generando satisfacción en el usuario. El mockup esta completo, contemplando todos los aspectos diversos del sitio.
 
 
 
 #### Recomendaciones y propuesta de mejoras: 
 
-Se podrian mejorar algunos aspectos como que se presentan algunos botones en la barra de navegación principal, o en los iconos para volver hacia atrás que carecen de funcionamiento. El contraste se puede mejorar en algunos sitios mas pequeños y menos visibles de forma que al usuario no le cueste visualizar bien la información importante. Finalmente vemos que se le podría dar mas relevancia a algunos iconos/imagenes para que el usuario centre toda su atención en las cosas mas importantes dentro de cada página,antes de que esta se pierda en otros estimulos que igual no interesa que reciban tanto peso.
+Se podrian mejorar algunos aspectos como que se presentan algunos botones en la barra de navegación principal, o en los iconos para volver hacia atrás que carecen de funcionamiento. El contraste se puede mejorar en algunos sitios mas pequeños y menos visibles de forma que al usuario no le cueste visualizar bien la información importante. También vemos que hay alguna página como la de contacto que se siente completamente vacía dejando mucho espacio sin rellenar. Finalmente vemos que se le podría dar mas relevancia a algunos iconos/imagenes para que el usuario centre toda su atención en las cosas mas importantes dentro de cada página,antes de que esta se pierda en otros estimulos que igual no interesa que reciban tanto peso. 
 
 
 
