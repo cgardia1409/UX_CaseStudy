@@ -277,6 +277,7 @@ Reclutamos nuestros usuarios en clase y utilizamos la aplicación gazerecorder.c
 
 CASO B
 
+Usuario 1
 ![](P4/eyeTrackingB1.png)
 ![](P4/eyeTrackingB2.png)
 ![](P4/eyeTrackingB3.png)
@@ -285,9 +286,12 @@ CASO B
 ![](P4/eyeTrackingB6.png)
 ![](P4/eyeTrackingB7.png)
 
+Usuario 2
+
 
 CASO A
 
+Usuario 1
 ![](P4/eyeTrackingA1.png)
 ![](P4/eyeTrackingAT1.png)
 ![](P4/eyeTrackingA2.png)
@@ -298,6 +302,18 @@ CASO A
 ![](P4/eyeTrackingAT4.png)
 ![](P4/eyeTrackingA5.png)
 ![](P4/eyeTrackingAT5.png)
+
+Usuario 2
+![](P4/eyeTrackingA21.png)
+![](P4/eyeTrackingA22.png)
+![](P4/eyeTrackingA23.png)
+![](P4/eyeTrackingA24.png)
+![](P4/eyeTrackingA25.png)
+![](P4/eyeTrackingA26.png)
+![](P4/eyeTrackingA27.png)
+![](P4/eyeTrackingA28.png)
+
+
 
 
 
